@@ -6,6 +6,8 @@ To launch, type in console:
 ``` ros2 launch launch/turtlesim_mimic_launch.py ```
 
 # Сonfiguration
-For develop and launch used **Ros2 Foxy** and **Turtlesim Foxy**. 
+For develop and launch used: 
 
-**Os**: Ubuntu 20.04
+* **Ros2 Foxy** and **Turtlesim Foxy**. 
+
+* **Os**: Ubuntu 20.04
