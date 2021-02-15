@@ -1,5 +1,5 @@
 # Ros_Turtlesim
-launch a turtlesim with red background
+Launch a turtlesim with red background
 
  For launch, type in console:
 
